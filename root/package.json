@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@keybr/server",
+  "name": "@keybr/root",
   "version": "0.0.0",
   "bin": {
     "keybr": "./keybr.js"
